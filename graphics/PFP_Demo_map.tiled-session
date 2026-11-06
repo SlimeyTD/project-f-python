@@ -1,0 +1,50 @@
+{
+    "activeFile": "demo_map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Dark+Light Grass TIles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Road_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "demo_map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 717.3333333333333,
+                "y": 651
+            }
+        },
+        "demo_map.tmx#Road_Tiles": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "/Users/ternguupaa/Documents/Flow -- Python",
+    "last.imagePath": "/Users/ternguupaa/Documents/Flow -- Python",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 48,
+    "map.tileWidth": 48,
+    "openFiles": [
+        "demo_map.tmx",
+        "Road_Tiles.tsx"
+    ],
+    "project": "PFP_Demo_map.tiled-project",
+    "recentFiles": [
+        "Road_Tiles.tsx",
+        "demo_map.tmx",
+        "Dark+Light Grass TIles.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}

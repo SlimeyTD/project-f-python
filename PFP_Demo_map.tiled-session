@@ -1,9 +1,8 @@
 {
-    "activeFile": "demo_map.tmx",
+    "activeFile": "graphics/test_map.tmx",
     "expandedProjectPaths": [
         "."
     ],
-    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Dark+Light Grass TIles.tsx": {
             "scaleInDock": 1,
@@ -14,34 +13,51 @@
             "scaleInEditor": 1
         },
         "demo_map.tmx": {
-            "scale": 1.5,
+            "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 717.3333333333333,
-                "y": 651
+                "x": 49.83333333333333,
+                "y": 737.8333333333333
             }
         },
         "demo_map.tmx#Road_Tiles": {
             "scaleInDock": 1
+        },
+        "graphics/Elementary_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "graphics/Road_Tiles.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "graphics/test_map.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 561,
+                "y": 456
+            }
         }
     },
-    "last.externalTilesetPath": "/Users/ternguupaa/Documents/Flow -- Python",
-    "last.imagePath": "/Users/ternguupaa/Documents/Flow -- Python",
-    "map.height": 30,
+    "last.imagePath": "/Users/ternguupaa/Documents/Flow -- Python/graphics",
+    "map.height": 20,
     "map.lastUsedFormat": "tmx",
-    "map.tileHeight": 48,
-    "map.tileWidth": 48,
+    "map.width": 20,
     "openFiles": [
-        "demo_map.tmx",
-        "Road_Tiles.tsx"
+        "graphics/test_map.tmx",
+        "graphics/Elementary_Tiles.tsx",
+        "graphics/Road_Tiles.tsx"
     ],
     "project": "PFP_Demo_map.tiled-project",
     "recentFiles": [
-        "Road_Tiles.tsx",
+        "graphics/Road_Tiles.tsx",
+        "graphics/Elementary_Tiles.tsx",
+        "graphics/test_map.tmx",
         "demo_map.tmx",
+        "Road_Tiles.tsx",
         "Dark+Light Grass TIles.tsx"
     ],
-    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
         "height": 48,
